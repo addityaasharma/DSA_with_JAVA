@@ -4,3 +4,4 @@ Worst Case - Time doesnot exceed in any condition - theta(n+1/2)
 Average Case - O(n)
 Tips: "Always find out worst case"
 
+Space Complexity : Memory taken by Code
